@@ -10,7 +10,7 @@ Follow the steps below to set up the Car Rental Service project locally, install
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/Rodro52/Basic_Car_Rental_System_Project.git
+git clone [https://github.com/Rodro52/Basic_Car_Rental_System_Project.git](https://github.com/Rodro52/Car_Rental_System_with_python.git)
 cd Basic_Car_Rental_System_Project
 ```
 ### 2. Install the dependecies
